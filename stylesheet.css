@@ -1,0 +1,50 @@
+
+
+body{
+    font-family: "Inter", sans-serif;
+    color: #030616;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h4 {
+    margin-top: 15px;
+    font-size: 24px;
+    font-weight: normal;
+}
+.lista1 li {
+    list-style: decimal;
+}
+
+.Title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;          
+    margin: 0;
+}
+
+.bodytext {
+    background-color: #F8FAFC;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+}
+
+
+a {
+    text-decoration: none;
+    color: #4E80EE;
+}
+
+@media (max-width: 640px) {
+
+  }
